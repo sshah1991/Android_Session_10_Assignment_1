@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CircularReveal_Dialog</string>
+    <string name="display_Heading">Its working</string>
+    <string name="display_text">Dialog box opens using Circular Reveal effect</string>
+</resources>
